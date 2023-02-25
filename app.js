@@ -1,6 +1,4 @@
-import { createApp, reactive } from "https://unpkg.com/petite-vue?module";
-      
-     window.store = reactive({
+      window.store = reactive({
         DYS_DOMAIN: "",
         CLEAR_DOMAIN: "",
         accountData: null,
